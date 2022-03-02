@@ -9,5 +9,6 @@
 
 ## Usage
 ``` python pdf2text.py extract "input_path" "output_path" ```
+---
 ``` python pdf2text.py generate "input_path" "output_path" language ```
 
