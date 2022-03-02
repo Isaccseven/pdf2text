@@ -15,4 +15,7 @@
 ``` python pdf2text.py generate "input_path" "output_path" language ```
 
 ## Example
-``` python pdf2text.py generate "./test.txt" "test.mp3" en ```
+``` python pdf2text.py extract "test.pdf" "text.txt" ```
+
+
+``` python pdf2text.py generate "test.txt" "test.mp3" en ```
